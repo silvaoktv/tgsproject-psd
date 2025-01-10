@@ -14,7 +14,7 @@ const Navbar = ({setShowCart}:PropsType) => {
         <div className="pt-4 bg-white top-0 sticky">
             <div className="container">
                 <div className="flex justify-between items-center">
-                    <div className="text-[30px] font-bold">Silva.Store</div>
+                    <div className="text-[30px] font-bold">Silthology</div>
                     <div className="lg:flex hidden w-full max-w-[500px]">
                     <input
                         className="border-2 border-accent px-6 py-2 w-full"
